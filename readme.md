@@ -51,7 +51,7 @@ POST /events (Authorization required)
 PUT /events/:id (Authorization required) (user can only update their own events)
 ```
 
-### Delete Booking
+### Delete Event
 
 ```http
 DELETE /events/:id (Authorization required) (user can only delete their own events)
